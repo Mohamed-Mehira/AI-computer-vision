@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.idea/
+.ipynb_checkpoints/
+Pytorch/dataset/cifar-10-batches-py/
+Pytorch/dataset/MNIST/
